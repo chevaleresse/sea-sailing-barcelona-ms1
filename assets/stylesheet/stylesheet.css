@@ -1,7 +1,7 @@
 /* Colours used: 
-Light blue above nav:   #CFE2FF 
-Dark blue in nav:       #3F528D
-Light background color: #F5F5F5
+Light blue above nav:             #CFE2FF 
+Dark blue in nav and footer:      #3F528D
+Light background color:           #F5F5F5
 
 */
 
@@ -82,31 +82,74 @@ body {
   display: table;
 width: 100%;
     table-layout: fixed; 
- 
+ bottom: 0;
 }
 .footer .col-footer {
     display: table-cell;
-    background-color: red;
+    background-color: #3F528D;
     width: 100%;
 
 }
 .footer .footer-logo {
     clear: both;
-    
     float: left;
-    background-color: blue;
-}
-.footer .footer-details,
-.footer .footer-details ul {
-   margin: 0 auto;
    
-   background-color: yellow;
+}
+.footer-logo a img{
+    width: 60%;
+
+
 }
 
+.footer-details h4 {
+    padding-left: 15px;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+.footer .footer-details,
+.footer .footer-details ul
+ {
+   margin: 0 auto;
+   color: #F5F5F5;
+   padding: 15px;
+   
+}
+.footer-details ul li {
+    list-style-type: none;
+    display: inline;
+}
+
+.footer-details ul p {
+    display: inline;
+    
+}
 .footer .footer-quick-links,
 .footer .footer-quick-links ul {
-    float: right;
-    display: inline-block;
-    background-color: green;
-      
+    text-align: right;
+    list-style-type: none;
+     color: #F5F5F5;
+    margin-right: 10px;      
+}
+
+.footer-quick-links h4 {
+    margin-right: 10px;
+}
+footer li a { 
+      color: #F5F5F5;
+}
+
+footer li a:hover {
+    color: #CFE2FF;
+}
+
+.footer-details  .social-media-icon {
+margin: 0 auto;
+padding: 10px 25px;
+  color: #F5F5F5;
+}
+
+.footer-details  .social-media-icon:hover {
+    
+ color: #CFE2FF;
+
 }
