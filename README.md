@@ -62,7 +62,7 @@ The website is build for a sailing adventures company. Hence, a sea blue colour 
 /*: TO BE EXPLAINED */
 
 ### Wireframes
-To Be explained
+/*:To Be explained */
 The wireframes for this site has been created with Balsamiq.
 The wireframs are available for view and downloading at: /*:add link here*/
 
@@ -73,7 +73,9 @@ The technologies used for this project include:
 - Bootstrap
 - GitPod
 - GitHub
+- Font Awesome
 In addition, in the early stages of the development process, Balsamiq Wireframes was utilised to develop the wireframes for this project. 
+The logo for this site has been created with Canva.
 
 ## Testing
 ### Validation
@@ -98,7 +100,9 @@ In addition, Code Institute has inspired the developer throughout the process of
 
 Furthermore, WWW3 schools has been consulted throughout the development process.
 
-Mo Shami also deserves acknowledgement for the guidance and support in creating this site.
+Mo Shami, my Code Institute mentor, also deserves acknowledgement for the guidance and support throughtout the process of creating this site.
+
+The images were retrieved from multiple sites in addition to own photographs. 
 
 ### Process
 Process:
