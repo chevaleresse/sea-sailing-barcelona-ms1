@@ -14,6 +14,51 @@ body {
 /* Background colours */
 
 /* Navigation bar */
+.navbar {
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    background-color: red;
+}
+.navbar a img {
+    width: 30%;
+    
+}
+/* Alert top of page*/
+.container-fluid .alert-container {
+    width: 100%;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0; 
+}
+
+    /* 
+    Is this unnecessary code for the top alert?
+    .alert-container .col-12 {
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: 0; } 
+    */
+
+
+.site-wide-alert {
+    border-radius: 0;
+    margin-bottom: 0;
+    padding: 5px;
+    border-color: #CFE2FF;
+    background-color: #CFE2FF;
+    text-align: center;
+
+}
+.site-wide-alert a {
+    color: #3F528D;
+    text-decoration: none;
+}
+.site-wide-alert:hover {
+    background-color: #F5F5F5;
+}
+
+}
 
 /* Header */
 
