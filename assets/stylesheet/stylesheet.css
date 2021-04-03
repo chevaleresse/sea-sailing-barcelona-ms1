@@ -84,6 +84,22 @@ width: 100%;
     table-layout: fixed; 
  bottom: 0;
 }
+
+.images-row {
+  display: table;
+ content: "";
+  clear: both;
+  display: table;
+   
+}
+.images-row .images-col-footer {
+
+     float: left;
+  width: 33.33%;
+  padding: 5px;
+  display: table-cell;
+}
+
 .footer .col-footer {
     display: table-cell;
     background-color: #3F528D;
