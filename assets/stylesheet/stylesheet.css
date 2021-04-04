@@ -14,8 +14,22 @@ hr {
     border-top: 3px solid black;
 }
 
-/* Background colours */
+/* Background colours to see sections better */
+.cta-head {
+    background-color: yellow;
+}
+.sailing-adventures {
+    background-color: red;
+   
+}
 
+.why-container {
+    background-color: purple;
+}
+
+.testimonial-container {
+    background-color: seagreen;
+}
 
 /* Alert top of page*/
 .container-fluid .alert-container {
@@ -188,10 +202,7 @@ background-color: #CFE2FF;
 
 /*Homepage */
     /*Sailing Adventures section */
-.sailing-adventures {
-    background-color: red;
-   
-}
+
 .container-card {
  display: inline-block;
  margin-left:  12%;
