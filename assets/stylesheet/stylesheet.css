@@ -218,7 +218,11 @@ display: inline-block;
    
     
 
-
+/* CTA bottom of page */
+.cta-bottom a {
+    margin-left: 25%;
+    width: 50%;
+}
 /* Footer */
 
 .footer {
