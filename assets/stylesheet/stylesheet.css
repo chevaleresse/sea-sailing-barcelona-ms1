@@ -103,6 +103,7 @@ width: 100%;
  content: "";
   clear: both;
   display: table;
+  width: 100%;
    
 }
 .images-row .images-col-footer {
