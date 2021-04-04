@@ -14,21 +14,34 @@ body {
 /* Background colours */
 
 /* Navigation bar */
+.navbar-row { 
+      background-color: black;
+      width: 100%; }
+
+
 .navbar {
     padding: 0;
     margin-bottom: 0;
     border:0;
     width: 100%;
-    background-color: red;
+  
 }
 .navbar a img {
     width: 30%;
+    float: left;
     
 }
 
+.navbar-col {
+      display: inline-block;
+      margin: 0 auto;
+      clear: both;
+} 
 
 .navbar .navbar-toggler {
     border: 0;
+
+    float: right;
 } 
 
 .navbar-nav li {
