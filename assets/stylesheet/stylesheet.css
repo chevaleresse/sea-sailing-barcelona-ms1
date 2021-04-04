@@ -5,11 +5,14 @@ Light background color:           #F5F5F5
 
 */
 
-/* Gneric CSS */
+/* Generic CSS */
 body {
     background-color: #F5F5F5;
 }
 
+hr {
+    border-top: 3px solid black;
+}
 
 /* Background colours */
 
