@@ -3,11 +3,18 @@ Light blue above nav:             #CFE2FF
 Dark blue in nav and footer:      #3F528D
 Light background color:           #F5F5F5
 
+Try these colors for buttons: 
+#17a2b8
+#337ab7
+They could look better than the current ones used.
 */
 
 /* Generic CSS */
 body {
-    background-color: #F5F5F5;
+   background-color: #F5F5F5;
+   /*   background-image: url(/assets/images/sailing-bcn-view.JPG); */
+      
+        
 }
 
 hr {
@@ -24,7 +31,7 @@ hr {
 }
 
 .why-container {
-    background-color: purple;
+    
 }
 
 .testimonial-container {
@@ -208,10 +215,6 @@ background-color: #CFE2FF;
  margin-left:  12%;
 }
 
-.container-card card-text {
- 
-   
-}
 
 .card-img-top {
  
@@ -223,6 +226,32 @@ display: inline-block;
 
 
     /*Why Sail with us section */
+
+    .why-container{
+        background-image: url(/assets/images/sailing-bcn-view.JPG);
+      
+    }
+    .why-container > h4 {
+        text-align: center;
+    }
+.why-container-row {
+    text-align: center;
+   
+}
+
+  .why-container-row > .container-card {
+      float:none; 
+  display: inline-block; 
+ clear: both;
+ margin: 0 auto;
+ width: 33%;
+ height: 10em;
+ 
+  }
+
+  .why-container-row > .container-card > .why-card {
+      padding: 5px 45px;
+  }
     
     /*What others say about us section */
     
