@@ -73,9 +73,9 @@ hr {
 }
 
 /* Navigation bar */
+
 .navbar-row { 
       background-color: #3F528D;
-     
     }
 
 
@@ -93,9 +93,10 @@ hr {
 } 
 
 .navbar a img {
-    width: 30%;
+width: 29%;
 clear: both;
 display: inline-block;
+margin-top: -15px;
     
     
 }
