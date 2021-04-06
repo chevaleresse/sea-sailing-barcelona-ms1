@@ -155,8 +155,24 @@ background-color: #CFE2FF;}
      color: #3F528D;
 background-color: #CFE2FF;
 }
+
+This could also be a nice combo. I don't like it that much either, but maybe better than the standard btn-info. 
+.btn-info {
+    background-color: #337ab7;
+    border-color: #337ab7;
+    color: #fff;
+}
+.btn-info:hover { 
+     color: #fff ;
+background-color: #17a2b8;
+}
+
+
 */
+
+
 /* Header carousel*/
+
 
 .carousel {
       margin-bottom: 60px;
