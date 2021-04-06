@@ -256,8 +256,26 @@ display: inline-block;
     
     /*What others say about us section */
     
-   
+  .testimonial-header h4 {
+       text-align: center;
+   }
     
+.testimonial-container-row {
+    text-align: center;
+   
+}
+
+  .testimonial-container-row > .container-card {
+      float:none; 
+  display: inline-block; 
+ clear: both;
+ margin: 0 auto;
+ width: 20%;
+ height: 10em;
+padding-bottom: 5px; 
+  }
+
+ 
 
 /* CTA bottom of page */
 .cta-bottom a {
