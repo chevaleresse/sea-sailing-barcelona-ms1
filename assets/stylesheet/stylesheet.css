@@ -76,8 +76,12 @@ hr {
 
 .navbar-row { 
       background-color: #3F528D;
+      
     }
 
+.row.navbar-row.container-fluid {
+    height: 10em;
+}
 
 .navbar {
     padding: 0;
@@ -93,18 +97,19 @@ hr {
 } 
 
 .navbar a img {
-width: 29%;
+width: 35%;
 clear: both;
-display: inline-block;
-margin-top: -15px;
+margin-top: 1%;
     
     
 }
 
-
 .navbar .navbar-toggler {
-    border: 0;
+   border: 0;
     float: right;
+    clear: both;
+    text-align: right;
+
 } 
 .navbar-col-mid {
     margin-left: 10%;
