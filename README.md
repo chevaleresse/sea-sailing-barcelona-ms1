@@ -64,7 +64,8 @@ The website is build for a sailing adventures company. Hence, a sea blue colour 
 ### Wireframes
 /*:To Be explained */
 The wireframes for this site has been created with Balsamiq.
-The wireframs are available for view and downloading at: /*:add link here*/
+The wireframes are available for view and downloading at: [see wireframes] (assets/docs/MS1-sea-sailing-barcelona-wireframes.pdf)
+]
 
 ### Technologies used
 The technologies used for this project include:
@@ -80,6 +81,7 @@ The logo for this site has been created with Canva.
 ## Testing
 ### Validation
 /*: TO BE EXPLAINED */
+To better understand the sections and divs, multiple contrasting background-colours were used to see how the items are positioned on the site and how it floats and moves around on the page.
 
 ### Testing of Site Owner Goals(Feature-Action-Expected result-Actual result)
 /*: TO BE EXPLAINED */
