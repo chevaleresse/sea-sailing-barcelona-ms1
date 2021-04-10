@@ -30,10 +30,6 @@ hr {
    
 }
 
-.why-container {
-    
-}
-
 .testimonial-container {
     background-color: seagreen;
 }
@@ -398,7 +394,45 @@ footer li a:hover {
 
 }
 
+
+/*Our Yachts */
+.row-yachts {
+    width: 90%;
+    
+}
+.container-card-yacht-image,
+.container-card-yacht-data {
+    display: inline-block;
+    margin: 0 auto;
+     text-align: center;
+    width: 49%;
+}
  
+.container-card-yacht-image {
+    background-color: cornflowerblue;
+    float: left;
+
+    
+}
+.container-card-yacht-data {
+    background-color: chartreuse;
+    float: right;
+}
+.card-yacht-image {
+    width: 75%;
+   
+
+}
+
+.ul-left {
+    float: left;
+}
+.ul-right {
+    float: right;
+}
+
+
+
 
 
 /*contact us css */
