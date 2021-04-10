@@ -396,10 +396,29 @@ footer li a:hover {
 
 
 /*Our Yachts */
+
 .row-yachts {
     width: 90%;
     margin: 0 auto;
 }
+
+.container-card-our-yachts {
+    display: inline-block;
+    margin: 0 auto;
+    text-align: center;
+    width: 49%;
+    background-color: #CFE2FF;
+    margin: 10px auto;
+}
+
+.container-card-our-yachts > .card > .card-body-image > .card-yacht-image { 
+    width: 50%;
+    margin: 10px auto;
+}
+.container-card-our-yachts {
+    float: left;
+}
+
 .container-card-yacht-image,
 .container-card-yacht-data {
     display: inline-block;
@@ -411,9 +430,8 @@ footer li a:hover {
 .container-card-yacht-image {
     background-color: cornflowerblue;
     float: left;
-
-    
 }
+
 .container-card-yacht-data {
     background-color: chartreuse;
     float: right;

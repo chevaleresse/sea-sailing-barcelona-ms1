@@ -104,7 +104,8 @@ Furthermore, WWW3 schools has been consulted throughout the development process.
 
 Mo Shami, my Code Institute mentor, also deserves acknowledgement for the guidance and support throughtout the process of creating this site.
 
-The images were retrieved from multiple sites in addition to own photographs. 
+The images were retrieved from multiple sites in addition to own photographs.
+The information about the two sailing yachts are retrieved from <https://www.nautal.com/rent-sailing-boat-jeanneau-so49-performance-marina-badalona-barcelona-17520> and <https://www.nautal.com/rent-sailing-boat-bavaria-yachtbau-50-cruiser-puerto-sitges-barcelona-1307?numPassengers=12&userSearch=1>
 
 ### Process
 Process:
