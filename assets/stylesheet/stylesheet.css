@@ -459,7 +459,41 @@ footer li a:hover {
 
 
 
-    
+    /*Frequently Asked Questions page*/
+
+.head-faqsection {
+    text-align: center;
+    padding: 0 45px;
+    margin: 3px 15px;
+}
+
+div#FAQaccordion {
+    width: 60%;
+    margin: 10px auto 25px;
+    text-align: center; 
+    background-color: #CFE2FF;
+    padding: 25px 0;
+    border: 3px solid #3F528D;
+     border-radius: 10%;
+}
+
+.faq-button { 
+    width: 90%;
+    margin: 1px auto;
+}
+ .faq-answer {
+     width: 85%;
+     margin: 0 auto;
+     padding: 4px 10px;
+ }
+ .faq-container {
+     margin-bottom: 10px;
+ }
+ .faq-container > p {
+     width: 45%;
+     margin: 0 auto 10px;
+ }
+
 /** Media query **/
 @media only screen and (max-width: 979px) {
    .fa-2x {
