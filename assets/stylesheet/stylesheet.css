@@ -432,20 +432,20 @@ footer li a:hover {
     height: 10em;
     background-color: #CFE2FF;
     border: 3px solid #3F528D;
-    border-radius: 3%;
+    border-radius: 2%;
     margin: 10px;
     padding: 10px 35px;
   }
 
   .head-contact-form {
     text-align: center;
-    padding: 0;
+    padding: 0 5px;
   }
 
   .contact-form {
     border: 3px solid #3F528D;
-    border-radius: 3%;
-    margin: 3% auto;
+    border-radius: 10%;
+    margin: 2% auto;
     width: 50%;
     padding: 20px 0;
     background-color: #CFE2FF;
