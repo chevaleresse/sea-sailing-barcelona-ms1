@@ -398,13 +398,13 @@ footer li a:hover {
 /*Our Yachts */
 .row-yachts {
     width: 90%;
-    
+    margin: 0 auto;
 }
 .container-card-yacht-image,
 .container-card-yacht-data {
     display: inline-block;
     margin: 0 auto;
-     text-align: center;
+    text-align: center;
     width: 49%;
 }
  
