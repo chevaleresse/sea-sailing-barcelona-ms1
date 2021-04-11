@@ -395,6 +395,34 @@ footer li a:hover {
 }
 
 
+
+/*Sailing Adventures (Sea&Island) CSS */
+
+.sailing-adventure-intro {
+    background-color: pink;
+    width: 90%;
+    margin: 0 auto;
+}
+.image-tour-intro-left {
+    float: left;
+}
+.image-tour-intro {
+    display: inline-block;
+    margin: 0 auto;
+    text-align: center;
+    width: 49%;
+    background-color: #CFE2FF;
+    margin: 10px auto;
+}
+.image-tour-intro > .card > .card-body-text > h4 {
+text-decoration: underline;
+margin: 25px auto;
+}
+
+.image-tour-intro > .card > .card-body-text > p {
+margin: 40px 25px;
+}
+
 /*Our Yachts */
 
 .row-yachts {
