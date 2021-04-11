@@ -422,20 +422,28 @@ margin: 25px auto;
 .image-tour-intro > .card > .card-body-text > p {
 margin: 40px 25px;
 }
-
+.sailing-adventure-whats-included-container {
+    background-color: #CFE2FF;
+    width: 80%;
+    margin: 0 auto;
+}
 .sailing-adventure-whats-included {
-    background-color: pink;
     width: 90%;
     margin: 0 auto;
+}
+.sailing-adventure-whats-included-list {
+    width: 100%;
+    margin: 0 auto;
+    padding: 0;
 }
 .whats-included-text {
     text-align: center;
 }
 
 .included-tourdetails {
-    display: inline-block;
+    
     margin: 0 auto;
-    width: 49%;
+    width: 50%;
     background-color: #CFE2FF;
     float: left;
 }
@@ -444,13 +452,51 @@ margin: 40px 25px;
 .included-tourdetails,
 .excluded-tourdetails {
     text-decoration: none;
-    margin: 30px 50px;
+    margin: 10px 50px;
     
 }
 
 .center-align {
     text-align: center;
 }
+
+
+.sailing-adventure-what-to-expect {
+    width: 90%;
+    margin: 0 auto;
+}
+.what-to-expect-paragraph {
+    width: 70%;
+    margin: 0 auto;
+}
+.sailing-adventure-cta {
+   width: 90%;
+   margin: 0 auto;
+   
+}
+.sailing-adventure-cta-body {
+
+    margin: 0 auto;
+    text-align: center;
+    width: 49%;
+    background-color: #CFE2FF;
+    margin: 10px auto; 
+float: left;}
+
+.sailing-adventure-cta-image { 
+   
+    width: 75%;
+    display: inline-block;
+    margin: 0 auto;
+    
+    background-color: #CFE2FF;
+    margin: 10px auto; }
+
+.sailing-adventure-cta-button {
+    
+    margin-top: 25px;
+}
+
 /*Our Yachts */
 
 .row-yachts {
