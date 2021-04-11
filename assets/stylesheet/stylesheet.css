@@ -423,6 +423,34 @@ margin: 25px auto;
 margin: 40px 25px;
 }
 
+.sailing-adventure-whats-included {
+    background-color: pink;
+    width: 90%;
+    margin: 0 auto;
+}
+.whats-included-text {
+    text-align: center;
+}
+
+.included-tourdetails {
+    display: inline-block;
+    margin: 0 auto;
+    width: 49%;
+    background-color: #CFE2FF;
+    float: left;
+}
+
+
+.included-tourdetails,
+.excluded-tourdetails {
+    text-decoration: none;
+    margin: 30px 50px;
+    
+}
+
+.center-align {
+    text-align: center;
+}
 /*Our Yachts */
 
 .row-yachts {
