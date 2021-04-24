@@ -106,7 +106,8 @@ Mo Shami, my Code Institute mentor, also deserves acknowledgement for the guidan
 
 The images were retrieved from multiple sites in addition to own photographs.
 The information about the two sailing yachts are retrieved from <https://www.nautal.com/rent-sailing-boat-jeanneau-so49-performance-marina-badalona-barcelona-17520> and <https://www.nautal.com/rent-sailing-boat-bavaria-yachtbau-50-cruiser-puerto-sitges-barcelona-1307?numPassengers=12&userSearch=1>
-
+The images of the SO49 sailing yacht are retrieved from <https://www.jeanneau.com/en/boats/sailboat/2-sun-odyssey/484-sun-odyssey-49/>
+The images of the BC50 sailing yacht are retrieved from <https://myyachtzone.com/yachts/bavaria-cruiser-50/>
 ### Process
 Process:
 /*: TO BE EXPLAINED */
