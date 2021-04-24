@@ -22,9 +22,7 @@ hr {
 }
 
 /* Background colours to see sections better */
-.cta-head {
-    background-color: yellow;
-}
+
 .sailing-adventures {
     background-color: red;
    
@@ -242,7 +240,12 @@ display: inline-block;
 }
 
 
+/*index page */
 
+div > #h4-index {
+    width: 65%;
+    margin: 10px auto;
+}
     /*Why Sail with us section */
 
     .why-container{
