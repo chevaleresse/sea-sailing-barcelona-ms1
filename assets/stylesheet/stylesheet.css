@@ -11,11 +11,17 @@ They could look better than the current ones used.
 
 /* Generic CSS */
 body {
-   background-color: #F5F5F5;
-   /*   background-image: url(/assets/images/sailing-bcn-view.JPG); */
-      
-        
+  background-color: #F5F5F5;
+   /*  
+    background-image: url(/assets/images/sailing-bcn-view.JPG);
+    background-image: url(../images/sebastian-coman-travel-S2dYlSp3dVM-unsplash.jpg);
+    background-image: url(../images/yucar-fotografik-cfR-V1QuEKw-unsplash.jpg); 
+    */
 }
+
+  h3 {
+      text-decoration: underline;
+  }
 
 hr {
     border-top: 3px solid black;
@@ -23,13 +29,8 @@ hr {
 
 /* Background colours to see sections better */
 
-.sailing-adventures {
-    background-color: red;
-   
-}
-
 .testimonial-container {
-    background-color: seagreen;
+    background-color: #CFE2FF;
 }
 
 /* Alert top of page*/
@@ -233,26 +234,27 @@ background-color: #17a2b8;
 
 
 .card-img-top {
- 
-  width: 350px;
-   margin: 15px;
-display: inline-block;
+  width: 400px;
+  margin: 15px auto;
+  display: inline-block;
 }
 
 
 /*index page */
 
-div > #h4-index {
+div > .h4-index {
     width: 65%;
     margin: 10px auto;
 }
+ /* Our sailing adventurse */
+
     /*Why Sail with us section */
 
     .why-container{
         background-image: url(/assets/images/sailing-bcn-view.JPG);
       
     }
-    .why-container > h4 {
+    .why-container > h3 {
         text-align: center;
     }
 .why-container-row {
@@ -276,7 +278,7 @@ div > #h4-index {
     
     /*What others say about us section */
     
-  .testimonial-header h4 {
+  .testimonial-header h3 {
        text-align: center;
    }
     
