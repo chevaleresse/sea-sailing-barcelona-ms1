@@ -71,6 +71,8 @@ hr {
 
 .navbar-row { 
       background-color: #3F528D;
+     
+      margin-bottom: 1%;
       
     }
 
@@ -95,6 +97,7 @@ hr {
 width: 35%;
 clear: both;
 margin-top: 1%;
+height: 120px;
     
     
 }
@@ -227,19 +230,29 @@ background-color: #17a2b8;
 /*Homepage */
     /*Sailing Adventures section */
 
+.our-sailing-adventures-container {
+border: 2px solid black;
+padding: 3px 3px 5px 3px;
+border-radius: 1%;
+background-color: #CFE2FF;
+    }
 .container-card {
  display: inline-block;
  margin-left:  12%;
+ 
 }
 
 
 .card-img-top {
   width: 400px;
-  margin: 15px auto;
+  margin-bottom: 15px;
   display: inline-block;
+  border-radius: 1%;
 }
 
-
+.our-sailing-adventures-card > .card-body {
+margin-bottom: 5px;
+}
 /*index page */
 
 div > .h4-index {
@@ -249,6 +262,10 @@ div > .h4-index {
  /* Our sailing adventurse */
 
     /*Why Sail with us section */
+.section-margin {
+    margin-top: 1%;
+    margin-bottom: 2%;
+}
 
     .why-container{
         background-image: url(/assets/images/sailing-bcn-view.JPG);
@@ -280,6 +297,7 @@ div > .h4-index {
     
   .testimonial-header h3 {
        text-align: center;
+       margin-bottom: 3px;
    }
     
 .testimonial-container-row {
@@ -291,13 +309,13 @@ div > .h4-index {
       float:none; 
   display: inline-block; 
  clear: both;
- margin: 0 auto;
+ margin: 0 20px;
  width: 20%;
- height: 10em;
-padding-bottom: 5px; 
+ border: 1px solid black;
+ 
   }
 
- 
+
 
 /* CTA bottom of page */
 .cta-bottom a {
