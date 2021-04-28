@@ -29,9 +29,7 @@ hr {
 
 /* Background colours to see sections better */
 
-.testimonial-container {
-    background-color: #CFE2FF;
-}
+
 
 /* Alert top of page*/
 .container-fluid .alert-container {
@@ -295,13 +293,20 @@ div > .h4-index {
     
     /*What others say about us section */
     
+   .testimonial-container {
+        background-image: url(../images/yucar-fotografik-cfR-V1QuEKw-unsplash.jpg);
+        padding: 5px;
+   }
+
   .testimonial-header h3 {
        text-align: center;
-       margin-bottom: 3px;
+       margin-bottom: 5px;
+       margin-top: 1px;
    }
     
 .testimonial-container-row {
     text-align: center;
+    
    
 }
 
@@ -425,6 +430,8 @@ footer li a:hover {
     background-image: url(../images/yucar-fotografik-cfR-V1QuEKw-unsplash.jpg);
     width: 90%;
     margin: 0 auto;
+    border: 2px solid black;
+    border-radius: 2%;
 }
 .image-tour-intro-left {
     float: left;
@@ -526,6 +533,7 @@ float: left;}
 .row-yachts {
     width: 90%;
     margin: 0 auto;
+    background-image: url(../images/yucar-fotografik-cfR-V1QuEKw-unsplash.jpg);
 }
 
 .container-card-our-yachts {
@@ -551,15 +559,16 @@ float: left;}
     margin: 0 auto;
     text-align: center;
     width: 49%;
+    
 }
  
 .container-card-yacht-image {
-    background-color: cornflowerblue;
+    
     float: left;
 }
 
 .container-card-yacht-data {
-    background-color: chartreuse;
+    
     float: right;
 }
 .card-yacht-image {
