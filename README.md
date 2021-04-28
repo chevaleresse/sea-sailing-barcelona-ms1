@@ -109,6 +109,8 @@ For example, iamges from UnSplash were used. For instance, the following image: 
 The information about the two sailing yachts are retrieved from <https://www.nautal.com/rent-sailing-boat-jeanneau-so49-performance-marina-badalona-barcelona-17520> and <https://www.nautal.com/rent-sailing-boat-bavaria-yachtbau-50-cruiser-puerto-sitges-barcelona-1307?numPassengers=12&userSearch=1>
 The images of the SO49 sailing yacht are retrieved from <https://www.jeanneau.com/en/boats/sailboat/2-sun-odyssey/484-sun-odyssey-49/>
 The images of the BC50 sailing yacht are retrieved from <https://myyachtzone.com/yachts/bavaria-cruiser-50/>
+
+The html/css/javascript on the our-yachts.html pages are from WW3 schools. (<https://www.w3schools.com/w3css/w3css_slideshow.asp>) From this site, the basic barebone structure of the CSS slideshow was used and the JavaScript code was used to make it function on this site.
 ### Process
 Process:
 /*: TO BE EXPLAINED */

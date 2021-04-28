@@ -18,11 +18,15 @@ body {
     background-image: url(../images/yucar-fotografik-cfR-V1QuEKw-unsplash.jpg); 
     */
 }
+/*
+h1, h2, h3, h4, h5, h6, p {font-family:  Verdana,sans-serif;}
+
+*/
 
   h3 {
       text-decoration: underline;
+    
   }
-
 hr {
     border-top: 3px solid black;
 }
@@ -572,10 +576,11 @@ float: left;}
     float: right;
 }
 .card-yacht-image {
-    width: 75%;
+    width: 85%;
    
 
 }
+
 
 .ul-left {
     display: inline-block;
