@@ -578,12 +578,22 @@ float: left;}
 }
 
 .ul-left {
-    float: left;
+    display: inline-block;
+    list-style-type: none;
+    text-align: left;
+    margin: 0 auto;
 }
 .ul-right {
-    float: right;
+    display: inline-block;
+    list-style-type: none;
+    text-align: left;
+    margin: 0 auto;
 }
 
+.ul-left > li:before,
+.ul-right > li:before {
+  content: '✓ ';
+}
 
 
 
