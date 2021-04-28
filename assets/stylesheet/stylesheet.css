@@ -422,7 +422,7 @@ footer li a:hover {
 /*Sailing Adventures (Sea&Island) CSS */
 
 .sailing-adventure-intro {
-    background-color: pink;
+    background-image: url(../images/yucar-fotografik-cfR-V1QuEKw-unsplash.jpg);
     width: 90%;
     margin: 0 auto;
 }
@@ -434,7 +434,6 @@ footer li a:hover {
     margin: 0 auto;
     text-align: center;
     width: 49%;
-    background-color: #CFE2FF;
     margin: 10px auto;
 }
 .image-tour-intro > .card > .card-body-text > h4 {
@@ -446,9 +445,9 @@ margin: 25px auto;
 margin: 40px 25px;
 }
 .sailing-adventure-whats-included-container {
-    background-color: #CFE2FF;
+     
     width: 80%;
-    margin: 0 auto;
+   
 }
 .sailing-adventure-whats-included {
     width: 90%;
@@ -467,7 +466,6 @@ margin: 40px 25px;
     
     margin: 0 auto;
     width: 50%;
-    background-color: #CFE2FF;
     float: left;
 }
 
@@ -490,7 +488,8 @@ margin: 40px 25px;
 
 .sailing-adventure-what-to-expect {
     width: 90%;
-    margin: 0 auto;
+    margin: 2% auto;
+;
 }
 .what-to-expect-paragraph {
     width: 70%;
@@ -499,6 +498,7 @@ margin: 40px 25px;
 .sailing-adventure-cta {
    width: 90%;
    margin: 0 auto;
+    background-image: url(../images/yucar-fotografik-cfR-V1QuEKw-unsplash.jpg)
    
 }
 .sailing-adventure-cta-body {
@@ -506,7 +506,6 @@ margin: 40px 25px;
     margin: 0 auto;
     text-align: center;
     width: 49%;
-    background-color: #CFE2FF;
     margin: 10px auto; 
 float: left;}
 
@@ -515,8 +514,6 @@ float: left;}
     width: 75%;
     display: inline-block;
     margin: 0 auto;
-    
-    background-color: #CFE2FF;
     margin: 10px auto; }
 
 .sailing-adventure-cta-button {
