@@ -488,8 +488,9 @@ margin: 40px 25px;
     
 }
 
-.included-tourdetails {
-    border-right: 3px solid #3F528D;
+.included-tourdetails > h4,
+.excluded-tourdetails > h4 {
+    text-decoration: underline;
     
 }
 .center-align {
